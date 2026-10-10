@@ -1,0 +1,5 @@
+repo: https://github.com/rmspeers/killerbee#develop
+primary_contact: ryan@spee.rs
+homepage: https://github.com/rmspeers/killerbee
+disabled: false
+dockerfile: containers/Dockerfile
